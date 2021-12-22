@@ -1,0 +1,3 @@
+﻿  数组.c
+c:\users\路尚\desktop\c语言\11.17\project1\project1\数组.c(48): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\users\路尚\desktop\c语言\11.17\project1\project1\数组.c(56): error C2059: 语法错误:“}”
